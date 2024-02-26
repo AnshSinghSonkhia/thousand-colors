@@ -27,7 +27,6 @@ module.exports = {
     "darkgoldenrod": [184, 134, 11],
     "darkgray": [169, 169, 169],
     "darkgreen": [0, 100, 0],
-    "darkgrey": [169, 169, 169],
     "darkkhaki": [189, 183, 107],
     "darkmagenta": [139, 0, 139],
     "darkolivegreen": [85, 107, 47],
