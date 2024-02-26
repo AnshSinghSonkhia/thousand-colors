@@ -1,5 +1,5 @@
 # thousand-colors
-An NPM Package with a list of 1000+ of color names & their values.
+An NPM Package with a list of 1000+ colors & their RGB values, ready to be used in your projects.
 
 # Installation
 
