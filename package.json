@@ -1,7 +1,7 @@
 {
   "name": "thousand-colors",
-  "version": "1.0.0",
-  "description": "An NPM Package with with a list of 1000+ of color names & their values.",
+  "version": "1.0.1",
+  "description": "An NPM Package with 1000+ colors & their RGB values, ready to be used in your projects.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
