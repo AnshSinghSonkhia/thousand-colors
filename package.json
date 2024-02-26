@@ -1,0 +1,29 @@
+{
+  "name": "thousand-colors",
+  "version": "1.0.0",
+  "description": "An NPM Package with with a list of 1000+ of color names & their values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshSinghSonkhia/thousand-colors.git"
+  },
+  "keywords": [
+    "color",
+    "colour",
+    "colors",
+    "color-names",
+    "color-name",
+    "color-keyword",
+    "keyword",
+    "thousand-colors"
+  ],
+  "author": "Ansh Singh Sonkhia",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AnshSinghSonkhia/thousand-colors/issues"
+  },
+  "homepage": "https://github.com/AnshSinghSonkhia/thousand-colors#readme"
+}
