@@ -37,7 +37,6 @@ module.exports = {
     "darkseagreen": [143, 188, 143],
     "darkslateblue": [72, 61, 139],
     "darkslategray": [47, 79, 79],
-    "darkslategrey": [47, 79, 79],
     "darkturquoise": [0, 206, 209],
     "darkviolet": [148, 0, 211],
     "deeppink": [255, 20, 147],
