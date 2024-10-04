@@ -2,6 +2,11 @@
 
 // const colors = {
 module.exports = {
+    "brass": [181, 166, 66],
+    "durianyellow": [225, 189, 39],
+    "rufous": [168, 28, 7],
+    "pomelo": [150, 165, 60],
+    "citron": [159, 169, 31],
     "kellygreen": [76, 187, 23],
     "auburnorange": [232, 119, 34],
     "auburnblue": [42, 165, 42],
@@ -197,7 +202,6 @@ module.exports = {
     "fawn": [177, 135, 85],
     "firebrick": [178, 34, 34],
     "flamingopink": [252, 142, 172],
-    "forestgreen": [34, 139, 34],
     "frostbite": [233, 54, 114],
     "garnet": [115, 54, 53],
     "gentlebreeze": [180, 218, 211],
@@ -821,7 +825,6 @@ module.exports = {
     "navyNightfall": [0, 0, 128],
     "cobaltCrest": [61, 89, 171],
     "indigoIllusion": [75, 0, 130],
-    "aquaArcadia": [0, 127, 255],
     "blueBayou": [150, 220, 255],
     "skywardSymphony": [0, 103, 165],
     "ceruleanCove": [0, 123, 167],
@@ -835,7 +838,6 @@ module.exports = {
     "navyNocturne": [0, 0, 128],
     "cobaltCalm": [61, 89, 171],
     "indigoImpulse": [75, 0, 130],
-    "aquaAqua": [0, 127, 255],
     "bluebellBliss": [150, 220, 255],
     "skySail": [0, 103, 165],
     "ceruleanCascade": [0, 123, 167],
@@ -849,7 +851,6 @@ module.exports = {
     "navyNostalgia": [0, 0, 128],
     "cobaltCanvas": [61, 89, 171],
     "indigoInception": [75, 0, 130],
-    "aquaAquarelle": [0, 127, 255],
     "bluebirdBliss": [150, 220, 255],
     "skySapphire": [0, 103, 165],
     "ceruleanCrest": [0, 123, 167],
