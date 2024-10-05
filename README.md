@@ -1,9 +1,9 @@
 # thousand-colors
+
 An Open-Source NPM Package with 1000+ colors & their RGB values, ready to be used in your projects.
 
 <code><img height="30" src="https://img.shields.io/badge/NPM-111111?style=for-the-badge&logo=npm&logoColor=#c63635"></code>
 <code><img height="30" src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-
 
 # Installation
 
@@ -14,8 +14,13 @@ npm i thousand-colors
 # Usage
 
 ```js
-var colors = require('thousand-colors');
-colors.red          // [255,0,0]
+const { colors } = require("thousand-colors");
+console.log(colors.aliceBlue); // Output: [240, 248, 255]
+
+// RGB to Hex converter
+
+const { colors, rgbToHex } = require("thousand-colors");
+console.log(rgbToHex(colors.aliceBlue)); // Output: #f0f8ff
 ```
 
 # List of Colors:
