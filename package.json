@@ -3,7 +3,6 @@
   "version": "1.0.6",
   "description": "An NPM Package with 1000+ colors & their RGB values, ready to be used in your projects.",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "node test.js"
   },
